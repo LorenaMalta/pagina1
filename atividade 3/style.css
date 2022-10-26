@@ -1,0 +1,20 @@
+img{
+
+border-radius: 50%;
+}
+td{
+border-width: 2px;
+border-style: solid;
+color: darkgreen;
+}
+th{
+border-width: 2px;
+border-style: solid;
+color: darkgreen;
+}
+ul{
+    border-width: 2px;
+border-style: solid;
+color: darkgreen;
+}
+

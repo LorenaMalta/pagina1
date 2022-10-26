@@ -1,0 +1,15 @@
+ button {
+color: yellow;
+border-radius: 10px;
+margin: 35px 0px 0px 100px;
+padding: 15px;
+background-color: black;
+
+
+}
+img{
+border-color: black;
+border-width: 2px;
+border-style: solid;
+border-radius: 50%;
+}
