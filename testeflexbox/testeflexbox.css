@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: solid;
+    background-color:black;
+}
+img{
+border-color: black;
+border-width: 2px;
+border-style: double;
+border-radius: 100%;
+padding: auto;
+}
+
+div{
+border-width: 2px;
+border-style: solid;
+
+}
+
+
+
