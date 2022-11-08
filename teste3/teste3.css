@@ -1,3 +1,13 @@
+@media screen and (max-device-width:768px){
+    img{
+        width: 200px;
+    }
+}
+
+
+
+
+
 header{
     height: 80px;
     display: flex;
